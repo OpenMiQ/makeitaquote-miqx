@@ -2,7 +2,7 @@
 
 Generate "Make it a Quote" images through the MiqX API.
 
-[![npm](https://img.shields.io/npm/v/@makeitaquote/miqx)](https://www.npmjs.com/package/@makeitaquote/miqx) [![CI](https://img.shields.io/github/actions/workflow/status/otnc/makeitaquote-miqx/ci.yml?branch=main&label=ci)](https://github.com/otnc/makeitaquote-miqx/actions) [![License](https://img.shields.io/github/license/otnc/makeitaquote-miqx)](LICENSE) [![Node](https://img.shields.io/node/v/@makeitaquote/miqx)](https://www.npmjs.com/package/@makeitaquote/miqx)
+[![npm](https://img.shields.io/npm/v/@makeitaquote/miqx)](https://www.npmjs.com/package/@makeitaquote/miqx) [![CI](https://img.shields.io/github/actions/workflow/status/OpenMiQ/makeitaquote-miqx/ci.yml?branch=main&label=ci)](https://github.com/OpenMiQ/makeitaquote-miqx/actions) [![License](https://img.shields.io/github/license/OpenMiQ/makeitaquote-miqx)](LICENSE) [![Node](https://img.shields.io/node/v/@makeitaquote/miqx)](https://www.npmjs.com/package/@makeitaquote/miqx)
 
 Calls the [MiqX API](https://miqx.jp/docs) instead of rendering locally — no native binaries, no fonts, works anywhere Node.js runs.
 
@@ -12,13 +12,13 @@ Calls the [MiqX API](https://miqx.jp/docs) instead of rendering locally — no n
 
 > [!Important]
 >   
-> This package only calls the MiqX API — it does not render images locally. If you want local rendering instead (no network dependency, more control over the theme), use `makeitaquote`: https://github.com/otnc/makeitaquote
+> This package only calls the MiqX API — it does not render images locally. If you want local rendering instead (no network dependency, more control over the theme), use `makeitaquote`: https://github.com/OpenMiQ/makeitaquote
 >
 > ```sh
 > npm install makeitaquote
 > ```
 >   
-> Prefer a different upstream API instead? [`@makeitaquote/voids`](https://github.com/otnc/makeitaquote-voids) does the same thing this package does, through the Voids API:
+> Prefer a different upstream API instead? [`@makeitaquote/voids`](https://github.com/OpenMiQ/makeitaquote-voids) does the same thing this package does, through the Voids API:
 >
 > ```sh
 > npm install @makeitaquote/voids

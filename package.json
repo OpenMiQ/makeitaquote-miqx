@@ -18,13 +18,13 @@
     "miqx",
     "miq-x"
   ],
-  "homepage": "https://github.com/otnc/makeitaquote-miqx#readme",
+  "homepage": "https://github.com/OpenMiQ/makeitaquote-miqx#readme",
   "bugs": {
-    "url": "https://github.com/otnc/makeitaquote-miqx/issues"
+    "url": "https://github.com/OpenMiQ/makeitaquote-miqx/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otnc/makeitaquote-miqx.git"
+    "url": "git+https://github.com/OpenMiQ/makeitaquote-miqx.git"
   },
   "license": "MIT",
   "author": "otoneko.",
